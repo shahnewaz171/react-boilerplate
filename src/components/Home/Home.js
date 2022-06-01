@@ -6,7 +6,7 @@ const Home = () => {
 
     return (
         <Main>
-            <Typography component="h1" sx={{ textAlign: 'Center' }}>This is home page</Typography>
+            <Typography component="h1" sx={{ textAlign: "center" }}>This is home page</Typography>
         </Main>
     );
 };
